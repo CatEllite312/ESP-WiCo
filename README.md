@@ -20,7 +20,8 @@ For simple operation, this project does not require any configuration or program
 
 Open your browser to http://IP_address_of_your_device/ and you should be fairly intuitive interface with 4 buttons.
 </br></br></br></br></br></br></br></br></br></br>
-## Using the API <img src="https://raw.githubusercontent.com/CatEllite312/ESP-WiCo/main/img/sht.png" width="250" align="right" />
+## Using the API 
+<img src="https://raw.githubusercontent.com/CatEllite312/ESP-WiCo/main/img/sht.png" width="250" align="right" />
 
 The API is RESTful, so you are expected to use GET and POST. Returns JSON.
 
